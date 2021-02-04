@@ -1,0 +1,5 @@
+1. utilize decoders for odometry
+2. pid controller
+3. Go-to-goal
+4. Avoidance-obstacle
+5. combine approaches, flips, etc.
